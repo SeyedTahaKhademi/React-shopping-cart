@@ -20,3 +20,56 @@
 
 ## 📂 ساختار پروژه
 src/ ├── components/ │   ├── Cart.jsx │   ├── CartItem.jsx │   ├── ProductList.jsx │   └── ProductItem.jsx ├── context/ │   └── CartContext.jsx ├── App.jsx └── main.jsx
+---
+
+## 🚀 اجرای پروژه در لوکال
+
+۱. کلون کردن مخزن:
+```bash
+git clone https://github.com/SeyedTahaKhademi/React-shopping-cart.git
+۲. ورود به پوشه:
+
+cd React-shopping-cart
+
+۳. نصب وابستگی‌ها:
+
+npm install
+
+۴. اجرای پروژه:
+
+npm run dev
+
+اپلیکیشن روی http://localhost:5173 در دسترس خواهد بود.
+
+
+---
+
+🛠️ تکنولوژی‌ها و ابزارها
+
+React (با استفاده از Hooks)
+
+Vite
+
+Context API
+
+[JavaScript ES6+]
+
+[CSS / Tailwind] (در صورت استفاده)
+
+
+
+---
+
+📌 نکته مهم
+
+این پروژه یک تمرین برای یادگیری مدیریت وضعیت و ساختاردهی کامپوننت‌ها در ری‌اکت بود.
+اما به راحتی می‌تواند گسترش یابد و به یک فروشگاه کامل با API واقعی و پرداخت آنلاین تبدیل شود.
+
+
+---
+
+👨‍💻 سازنده
+
+Seyed Taha Khademi
+
+نیت: یادگیری، خدمت و رضای خدا 🙏
